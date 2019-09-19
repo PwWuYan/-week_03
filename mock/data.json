@@ -1,0 +1,608 @@
+[{
+        "id": 0,
+        "title": "主食类",
+        "chid": [{
+                "id": 0,
+                "img": "/1.jpg",
+                "title": "玉米（鲜）",
+                "energy": 112,
+                "type": 0
+            },
+            {
+                "id": 1,
+                "img": "/1.jpg",
+                "title": "燕麦片",
+                "energy": 338,
+                "type": 0
+            },
+            {
+                "id": 2,
+                "img": "/1.jpg",
+                "title": "面包",
+                "energy": 313,
+                "type": 0
+            },
+            {
+                "id": 3,
+                "img": "/1.jpg",
+                "title": "红薯",
+                "energy": 61,
+                "type": 0
+            },
+            {
+                "id": 4,
+                "img": "/1.jpg",
+                "title": "小米粥",
+                "energy": 46,
+                "type": 0
+            },
+            {
+                "id": 5,
+                "img": "/1.jpg",
+                "title": "马铃薯",
+                "energy": 81,
+                "type": 0
+            },
+            {
+                "id": 6,
+                "img": "/1.jpg",
+                "title": "包子",
+                "energy": 227,
+                "type": 0
+            },
+            {
+                "id": 7,
+                "img": "/1.jpg",
+                "title": "面条（生）",
+                "energy": 301,
+                "type": 0
+            },
+            {
+                "id": 8,
+                "img": "/1.jpg",
+                "title": "南瓜（栗面）",
+                "energy": 36,
+                "type": 0
+            },
+            {
+                "id": 9,
+                "img": "/1.jpg",
+                "title": "白薯",
+                "energy": 106,
+                "type": 0
+            },
+            {
+                "id": 10,
+                "img": "/1.jpg",
+                "title": "米饭",
+                "energy": 116,
+                "type": 0
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "title": "肉蛋类",
+        "chid": [{
+                "id": 0,
+                "img": "/2.jpg",
+                "title": "鸡蛋",
+                "energy": 112,
+                "type": 0
+            },
+            {
+                "id": 1,
+                "img": "/2.jpg",
+                "title": "熟肉",
+                "energy": 338,
+                "type": 0
+            },
+            {
+                "id": 2,
+                "img": "/2.jpg",
+                "title": "鸡蛋（煮）",
+                "energy": 313,
+                "type": 0
+            },
+            {
+                "id": 3,
+                "img": "/2.jpg",
+                "title": "鸡",
+                "energy": 61,
+                "type": 0
+            },
+            {
+                "id": 4,
+                "img": "/2.jpg",
+                "title": "火腿肠",
+                "energy": 46,
+                "type": 0
+            },
+            {
+                "id": 5,
+                "img": "/2.jpg",
+                "title": "鸡蛋白",
+                "energy": 81,
+                "type": 0
+            },
+            {
+                "id": 6,
+                "img": "/2.jpg",
+                "title": "咸鸭蛋",
+                "energy": 227,
+                "type": 0
+            },
+            {
+                "id": 7,
+                "img": "/2.jpg",
+                "title": "鸡胸脯肉",
+                "energy": 301,
+                "type": 0
+            },
+            {
+                "id": 8,
+                "img": "/2.jpg",
+                "title": "鸡蛋（土鸡）",
+                "energy": 36,
+                "type": 0
+            },
+            {
+                "id": 9,
+                "img": "/2.jpg",
+                "title": "鸡蛋（白皮）",
+                "energy": 106,
+                "type": 0
+            },
+            {
+                "id": 10,
+                "img": "/2.jpg",
+                "title": "荷包蛋",
+                "energy": 116,
+                "type": 0
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "大豆及制品",
+        "chid": [{
+                "id": 0,
+                "img": "/3.jpg",
+                "title": "豆浆",
+                "energy": 112,
+                "type": 0
+            },
+            {
+                "id": 1,
+                "img": "/3.jpg",
+                "title": "豆腐（南）",
+                "energy": 338,
+                "type": 0
+            },
+            {
+                "id": 2,
+                "img": "/3.jpg",
+                "title": "豆浆（甜）",
+                "energy": 313,
+                "type": 0
+            },
+            {
+                "id": 3,
+                "img": "/3.jpg",
+                "title": "豆腐",
+                "energy": 61,
+                "type": 0
+            },
+            {
+                "id": 4,
+                "img": "/3.jpg",
+                "title": "豆腐（北）",
+                "energy": 46,
+                "type": 0
+            },
+            {
+                "id": 5,
+                "img": "/3.jpg",
+                "title": "豆腐干（白干）",
+                "energy": 81,
+                "type": 0
+            },
+            {
+                "id": 6,
+                "img": "/3.jpg",
+                "title": "包豆奶子",
+                "energy": 227,
+                "type": 0
+            },
+            {
+                "id": 7,
+                "img": "/3.jpg",
+                "title": "豆腐脑（带卤）",
+                "energy": 301,
+                "type": 0
+            },
+            {
+                "id": 8,
+                "img": "/3.jpg",
+                "title": "黄豆",
+                "energy": 36,
+                "type": 0
+            },
+            {
+                "id": 9,
+                "img": "/3.jpg",
+                "title": "豆腐花",
+                "energy": 106,
+                "type": 0
+            },
+            {
+                "id": 10,
+                "img": "/3.jpg",
+                "title": "豆腐干（香干）",
+                "energy": 116,
+                "type": 0
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "蔬菜菌藻类",
+        "chid": [{
+                "id": 0,
+                "img": "/4.jpg",
+                "title": "小白菜",
+                "energy": 112,
+                "type": 0
+            },
+            {
+                "id": 1,
+                "img": "/4.jpg",
+                "title": "黄瓜",
+                "energy": 338,
+                "type": 0
+            },
+            {
+                "id": 2,
+                "img": "/4.jpg",
+                "title": "番茄",
+                "energy": 313,
+                "type": 0
+            },
+            {
+                "id": 3,
+                "img": "/4.jpg",
+                "title": "上海青",
+                "energy": 61,
+                "type": 0
+            },
+            {
+                "id": 4,
+                "img": "/4.jpg",
+                "title": "西兰花",
+                "energy": 46,
+                "type": 0
+            },
+            {
+                "id": 5,
+                "img": "/4.jpg",
+                "title": "菜心",
+                "energy": 81,
+                "type": 0
+            },
+            {
+                "id": 6,
+                "img": "/4.jpg",
+                "title": "白萝卜",
+                "energy": 227,
+                "type": 0
+            },
+            {
+                "id": 7,
+                "img": "/4.jpg",
+                "title": "大白菜",
+                "energy": 301,
+                "type": 0
+            },
+            {
+                "id": 8,
+                "img": "/4.jpg",
+                "title": "花菜",
+                "energy": 36,
+                "type": 0
+            },
+            {
+                "id": 9,
+                "img": "/4.jpg",
+                "title": "南瓜",
+                "energy": 106,
+                "type": 0
+            },
+            {
+                "id": 10,
+                "img": "/4.jpg",
+                "title": "生菜",
+                "energy": 116,
+                "type": 0
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "水果类",
+        "chid": [{
+                "id": 0,
+                "img": "/5.jpg",
+                "title": "苹果",
+                "energy": 112,
+                "type": 0
+            },
+            {
+                "id": 1,
+                "img": "/5.jpg",
+                "title": "香蕉",
+                "energy": 338,
+                "type": 0
+            },
+            {
+                "id": 2,
+                "img": "/5.jpg",
+                "title": "西瓜",
+                "energy": 313,
+                "type": 0
+            },
+            {
+                "id": 3,
+                "img": "/5.jpg",
+                "title": "桃子",
+                "energy": 61,
+                "type": 0
+            },
+            {
+                "id": 4,
+                "img": "/5.jpg",
+                "title": "红富士苹果",
+                "energy": 46,
+                "type": 0
+            },
+            {
+                "id": 5,
+                "img": "/5.jpg",
+                "title": "橙",
+                "energy": 81,
+                "type": 0
+            },
+            {
+                "id": 6,
+                "img": "/5.jpg",
+                "title": "梨",
+                "energy": 227,
+                "type": 0
+            },
+            {
+                "id": 7,
+                "img": "/5.jpg",
+                "title": "柚子",
+                "energy": 301,
+                "type": 0
+            },
+            {
+                "id": 8,
+                "img": "/5.jpg",
+                "title": "猕猴桃",
+                "energy": 36,
+                "type": 0
+            },
+            {
+                "id": 9,
+                "img": "/5.jpg",
+                "title": "橘子",
+                "energy": 106,
+                "type": 0
+            },
+            {
+                "id": 10,
+                "img": "/5.jpg",
+                "title": "葡萄",
+                "energy": 116,
+                "type": 0
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "奶类",
+        "chid": [{
+                "id": 0,
+                "img": "/6.jpg",
+                "title": "酸奶",
+                "energy": 112,
+                "type": 0
+            },
+            {
+                "id": 1,
+                "img": "/6.jpg",
+                "title": "全脂牛奶",
+                "energy": 338,
+                "type": 0
+            },
+            {
+                "id": 2,
+                "img": "/6.jpg",
+                "title": "牛奶",
+                "energy": 313,
+                "type": 0
+            },
+            {
+                "id": 3,
+                "img": "/6.jpg",
+                "title": "纯牛奶",
+                "energy": 61,
+                "type": 0
+            },
+            {
+                "id": 4,
+                "img": "/6.jpg",
+                "title": "酸奶（调味）",
+                "energy": 46,
+                "type": 0
+            },
+            {
+                "id": 5,
+                "img": "/6.jpg",
+                "title": "光明鲜牛奶",
+                "energy": 81,
+                "type": 0
+            },
+            {
+                "id": 6,
+                "img": "/6.jpg",
+                "title": "酸奶（果料）",
+                "energy": 227,
+                "type": 0
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "title": "油脂类",
+        "chid": [{
+                "id": 0,
+                "img": "/7.jpg",
+                "title": "色拉油",
+                "energy": 112,
+                "type": 0
+            },
+            {
+                "id": 1,
+                "img": "/7.jpg",
+                "title": "花生油",
+                "energy": 338,
+                "type": 0
+            },
+            {
+                "id": 2,
+                "img": "/7.jpg",
+                "title": "豆油",
+                "energy": 313,
+                "type": 0
+            },
+            {
+                "id": 3,
+                "img": "/7.jpg",
+                "title": "混合油",
+                "energy": 61,
+                "type": 0
+            },
+            {
+                "id": 4,
+                "img": "/7.jpg",
+                "title": "葵花籽油",
+                "energy": 46,
+                "type": 0
+            },
+            {
+                "id": 5,
+                "img": "/7.jpg",
+                "title": "橄榄油",
+                "energy": 81,
+                "type": 0
+            },
+            {
+                "id": 6,
+                "img": "/7.jpg",
+                "title": "地沟油",
+                "energy": 227,
+                "type": 0
+            },
+            {
+                "id": 7,
+                "img": "/7.jpg",
+                "title": "菜籽油",
+                "energy": 301,
+                "type": 0
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "title": "坚果类",
+        "chid": [{
+                "id": 0,
+                "img": "/1.jpg",
+                "title": "瓜子",
+                "energy": 112,
+                "type": 0
+            },
+            {
+                "id": 1,
+                "img": "/1.jpg",
+                "title": "花生",
+                "energy": 338,
+                "type": 0
+            },
+            {
+                "id": 2,
+                "img": "/1.jpg",
+                "title": "花生米",
+                "energy": 313,
+                "type": 0
+            },
+            {
+                "id": 3,
+                "img": "/1.jpg",
+                "title": "黑芝麻",
+                "energy": 61,
+                "type": 0
+            },
+            {
+                "id": 4,
+                "img": "/1.jpg",
+                "title": "杏仁",
+                "energy": 46,
+                "type": 0
+            },
+            {
+                "id": 5,
+                "img": "/1.jpg",
+                "title": "核桃",
+                "energy": 81,
+                "type": 0
+            },
+            {
+                "id": 6,
+                "img": "/1.jpg",
+                "title": "开心果",
+                "energy": 227,
+                "type": 0
+            },
+            {
+                "id": 7,
+                "img": "/1.jpg",
+                "title": "腰果",
+                "energy": 301,
+                "type": 0
+            },
+            {
+                "id": 8,
+                "img": "/1.jpg",
+                "title": "南瓜子",
+                "energy": 36,
+                "type": 0
+            },
+            {
+                "id": 9,
+                "img": "/1.jpg",
+                "title": "西瓜子",
+                "energy": 106,
+                "type": 0
+            },
+            {
+                "id": 10,
+                "img": "/1.jpg",
+                "title": "榛子",
+                "energy": 116,
+                "type": 0
+            }
+        ]
+    }
+]
